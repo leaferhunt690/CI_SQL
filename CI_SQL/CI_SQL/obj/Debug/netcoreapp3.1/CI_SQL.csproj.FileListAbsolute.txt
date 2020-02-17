@@ -1,0 +1,58 @@
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\CI_SQL.exe
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\CI_SQL.deps.json
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\CI_SQL.runtimeconfig.json
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\CI_SQL.runtimeconfig.dev.json
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\CI_SQL.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\CI_SQL.pdb
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\obj\Debug\netcoreapp3.1\CI_SQL.AssemblyInfoInputs.cache
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\obj\Debug\netcoreapp3.1\CI_SQL.AssemblyInfo.cs
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\obj\Debug\netcoreapp3.1\CI_SQL.csproj.CopyComplete
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\obj\Debug\netcoreapp3.1\CI_SQL.dll
+C:\Users\Harry Lin\Desktop\Local Repository\CI_SQL\CI_SQL\CI_SQL\obj\Debug\netcoreapp3.1\CI_SQL.pdb
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\CI_SQL.exe
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\CI_SQL.deps.json
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\CI_SQL.runtimeconfig.json
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\CI_SQL.runtimeconfig.dev.json
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\CI_SQL.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\CI_SQL.pdb
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\obj\Debug\netcoreapp3.1\CI_SQL.AssemblyInfoInputs.cache
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\obj\Debug\netcoreapp3.1\CI_SQL.AssemblyInfo.cs
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\obj\Debug\netcoreapp3.1\CI_SQL.csproj.CopyComplete
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\obj\Debug\netcoreapp3.1\CI_SQL.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\CI_SQL\CI_SQL\CI_SQL\obj\Debug\netcoreapp3.1\CI_SQL.pdb

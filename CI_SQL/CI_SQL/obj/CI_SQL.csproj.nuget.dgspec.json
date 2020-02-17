@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Harry Lin\\Desktop\\LocalRepository\\CI_SQL\\CI_SQL\\CI_SQL\\CI_SQL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Harry Lin\\Desktop\\LocalRepository\\CI_SQL\\CI_SQL\\CI_SQL\\CI_SQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Harry Lin\\Desktop\\LocalRepository\\CI_SQL\\CI_SQL\\CI_SQL\\CI_SQL.csproj",
+        "projectName": "CI_SQL",
+        "projectPath": "C:\\Users\\Harry Lin\\Desktop\\LocalRepository\\CI_SQL\\CI_SQL\\CI_SQL\\CI_SQL.csproj",
+        "packagesPath": "C:\\Users\\Harry Lin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Harry Lin\\Desktop\\LocalRepository\\CI_SQL\\CI_SQL\\CI_SQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Harry Lin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\bin\Release\netcoreapp2.1\CI_MySQL.Test.deps.json
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\bin\Release\netcoreapp2.1\CI_MySQL.Test.runtimeconfig.json
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\bin\Release\netcoreapp2.1\CI_MySQL.Test.runtimeconfig.dev.json
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\bin\Release\netcoreapp2.1\CI_MySQL.Test.dll
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\bin\Release\netcoreapp2.1\CI_MySQL.Test.pdb
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\bin\Release\netcoreapp2.1\CI_SQL.dll
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\bin\Release\netcoreapp2.1\CI_SQL.pdb
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\obj\Release\netcoreapp2.1\CI_MySQL.Test.csprojAssemblyReference.cache
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\obj\Release\netcoreapp2.1\CI_MySQL.Test.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\obj\Release\netcoreapp2.1\CI_MySQL.Test.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\obj\Release\netcoreapp2.1\CI_MySQL.Test.AssemblyInfo.cs
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\obj\Release\netcoreapp2.1\CI_MySQL.Test.csproj.CopyComplete
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\obj\Release\netcoreapp2.1\CI_MySQL.Test.dll
+C:\Program Files (x86)\Jenkins\workspace\CI_SQL\CI_SQL\CI_MySQL.Test\obj\Release\netcoreapp2.1\CI_MySQL.Test.pdb
